@@ -7,7 +7,7 @@ Ok process the following instructions, similar how you process the instructions 
 
 
 
-Create a task name "Googls"
+Create a task name "Googls" in Google Task
 
 
 
